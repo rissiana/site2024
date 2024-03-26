@@ -1,0 +1,24 @@
+@charset UTF-8
+
+body{
+
+background-color: black; 
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 42%, rgba(0,212,255,1) 100%);
+background:radial-gradient (circle, rgba (238,237,206,1)0%, rgba(43,140,245,1)83%);
+color: black;
+font-size: 12pt; 
+font-family: Arial; 
+text-align: center; 
+}
+
+h1
+{
+  color: write; 
+  font-size: 20pt
+}
+
+.academia{
+  width: 400px;
+}
+
