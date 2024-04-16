@@ -2,7 +2,6 @@
 
 body
 {
-
   background: rgb(166,54,92);
   background: linear-gradient(90deg, rgba(166,54,92,1) 16%, rgba(255,0,159,1) 77%);
   color: aliceblue;
@@ -13,13 +12,29 @@ text-align: center;
 
 h1
 {
-  color: write; 
-  font-size: 30pt
+  color:red;
+  font-size:16pt
+  font-family: Arial, Helvetica, sans-serif; 
 }
 
 .img{
-  width: 400px;
+  width: 350px;
 }
-a{
-  text-decoration: none;
+
+p {
+  color: black;
+}
+.parim
+{
+color:red; 
+font-size: 16pt; 
+font-family: Arial, Helvetica, sans-serif; 
+
+}
+.parpar
+{
+   color: blue;
+   
+  font-size: 20pt;
+  font-family:Verdana,Geneva, Tahoma, sans-serif;
 }
